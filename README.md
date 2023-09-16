@@ -1,4 +1,4 @@
-# Social Media Content Dwonload
+# Social Media Content Download
 * The script provides the following functionalities:
 * Downloading Instagram profile pictures
 * Downloading Instagram photos and videos
